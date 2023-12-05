@@ -4,3 +4,7 @@ Two small project. One is a Monte Carlo Pricer for some type of options (Vanilla
 There is one pdf file to explain theory behind the two project and some insights about the interface.
 
 The other two files are the solutions.
+
+Project 3 : Monte Carlo Pricer
+
+Project 4 : Black Scholes solution
